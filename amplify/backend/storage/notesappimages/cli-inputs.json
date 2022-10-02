@@ -1,0 +1,14 @@
+{
+  "resourceName": "notesappimages",
+  "policyUUID": "10e51e55",
+  "bucketName": "cautiousoctogiggle68d822b7da634ba8958ce56164f42",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
